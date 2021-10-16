@@ -1,6 +1,6 @@
 ## Who_Won_the_Game?
 
-In this repository, you will find an interactive bowling score display and computation program created in a Jupyter Notebook. This program uses the scorecard.txt file, which was created by my professor, to compute game results.
+In this repository, you will find an interactive bowling score display and computation program created in a Jupyter Notebook. This program uses the scorecard.txt file, which was created by my professor, to display and compute game results.
 
 A breakdown of the program components and download-free access to the program via Google Colab can be found on [my Wix website portfolio](https://kimberlytanyh.wixsite.com/portfolio).
 
